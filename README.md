@@ -1,4 +1,4 @@
-
+<img src="https://c.tenor.com/77IymeWcaBgAAAAC/coding-programming.gif">
 
 <h1 align="center">Hi 👋, I'm Oragon</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
