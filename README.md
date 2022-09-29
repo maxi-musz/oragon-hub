@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/oragon_hub" target="blank"><img src="https://img.shields.io/twitter/follow/oragon_hub?logo=twitter&style=for-the-badge" alt="oragon_hub" /></a> </p>
 
-- 🔭 Currently working on [Zebra-Logistics MERN e-commerce](https://github.com/oragon-hub/Zebra-Logistics-LLC-E-Commerce-Website-with-MERN)
+- 🔭 Currently working on [Zebra-Logistics MERN e-commerce](https://zebra-llc-1.herokuapp.com/)
 
 - 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **any SE projects**
 
-- 👨‍💻 All of my projects are available at [https://oragon-hub.github.io/oragon/](https://zebra-llc-1.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://oragon-hub.github.io/oragon/](https://github.com/oragon-hub)
 
 - 💬 Ask me about **Full Stack Development, Cloud Computing, Api, Web Securities, MERN Stack Development**
 
