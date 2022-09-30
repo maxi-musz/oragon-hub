@@ -1,7 +1,7 @@
 <img alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <h1 align="center">Hi 👋, I'm Oragon</h1>
-<h3 align="center">A passionate Software Engineer from Nigeria</h3>
+<h3 align="center">A passionate Software Developer, Machine Learning Engineer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oragon-hub&label=Profile%20views&color=0e75b6&style=flat" alt="oragon-hub" /> </p>
 
